@@ -1,3 +1,5 @@
+Responsable: Luis 
+Fecha: 29/09/2026
 Registro del sistema
 Sistema:SIGIA
 Estado: Aprobado
