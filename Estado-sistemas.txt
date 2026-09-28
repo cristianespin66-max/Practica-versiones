@@ -1,0 +1,4 @@
+Registro del sistema
+Sistema:SIGIA
+Estado: En revision
+Observaciones: pendiente de pruebas
